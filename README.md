@@ -1,4 +1,4 @@
-# solitaire-peg-solver
+# peg-solitaire-solver
 Me and a friend found this weird shape for a solitaire peg game, want to create a solver for it because we have not been able to solve it by hand.
 
 
